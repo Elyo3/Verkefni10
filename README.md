@@ -15,3 +15,5 @@ Planið var upprunulega að nota eitthvað annað en Pokémon en Pokéapi er svo
 - React | https://react.dev/
 
 Mér fannst eins og vef framework væri best fyrir það sem ég var að reyna gera þannig ég valdi bara React.
+
+(Ekki gleyma að ýta á pokémon kassanna til að fá stats og info)
